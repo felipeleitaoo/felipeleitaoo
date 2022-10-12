@@ -9,3 +9,9 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipeleitaoo&show_icons=true&theme=dark&include_all_commits=true&count_private-true"L> 
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeleitaoo&layout=compact&langs_count=16&theme=dark"L> 
     </div>
+
+<div style="display: inline_block"><br>
+    <img align="center" alt="Felipe" height="90" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
+    <img align="center" alt="Felipe" height="90" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    <img align="center" alt="Felipe" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg">  
+</div>
