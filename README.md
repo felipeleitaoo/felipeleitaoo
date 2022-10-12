@@ -5,7 +5,7 @@
 - 📫 How to reach me https://www.linkedin.com/in/felipeleitaosousa/
 
 <div> 
-    <a href="https://beasons.ai/felipeleitaoo"
+    <a href="https://beasons.ai/felipeleitaoo">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeleitaoo&show_icons=true&theme=dark&include_all_commits=true&count_private-true"L> 
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeleitaoo&layout=compact&langs_count=16&theme=dark"L> 
 </div>
