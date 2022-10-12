@@ -6,8 +6,8 @@
 
 <div> 
     <a href="https://beasons.ai/felipeleitaoo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeleitaoo&show_icons=true&theme=dark&include_all_commits=true&count_private-true"L> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeleitaoo&layout=compact&langs_count=16&theme=dark"L> 
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipeleitaoo&show_icons=true&theme=dark&include_all_commits=true&count_private-true"L> 
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeleitaoo&layout=compact&langs_count=16&theme=dark"L> 
 </div>
 
 <div style="display: inline_block"><br>
